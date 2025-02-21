@@ -1,6 +1,6 @@
 # Deskset-Release
 
-<div style="text-align: center;">
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
     <img src="./Deskset.png" width="160px"></img>
     <div>欢迎使用数字桌搭 Deskset</div>
     <div>一款桌面美化软件</div>
@@ -21,3 +21,7 @@
 
 后端：
 - FastAPI：暂时闭源
+
+
+## 交流
+QQ 群：770889923
